@@ -1,2 +1,2 @@
 # table-builder-vue-js
-Styled table builder with Vue 2, Vuex and SASS
+Table builder with Vue 2, Vuex and SASS
